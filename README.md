@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **genedna/genedna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Profile](https://github.com/genedna/genedna/blob/main/profile.jpg)](https://maquanyi.com)
+
+### About me🧑:
