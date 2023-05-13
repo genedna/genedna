@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 我是马全一，大家都叫我 "马道长" ！！！👋
 
-[![Profile](https://github.com/genedna/genedna/blob/main/profile.jpg)](https://maquanyi.com)
+[![Profile](https://github.com/genedna/genedna/blob/main/host.jpeg)](https://maquanyi.com)
 
 <h4>是一名不会写文章的技术博主、不会说脱口秀的技术讲师、不会做产品的技术产品经理</h4>
 
